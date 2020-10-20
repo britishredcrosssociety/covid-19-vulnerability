@@ -1,0 +1,383 @@
+LAD19CD,TacticalCell,brc_score,vol_supply,worst_score,best_score,mean_score
+E06000001,North,2,2,2,2,2
+E06000002,North,2,2,2,2,2
+E06000003,North,1,2,2,1,1.5
+E06000004,North,2,2,2,2,2
+E06000005,North,3,2,3,2,2.5
+E06000006,North,2,1,2,1,1.5
+E06000007,North,2,1,2,1,1.5
+E06000008,North,3,2,3,2,2.5
+E06000009,North,3,1,3,1,2
+E06000010,North,3,1,3,1,2
+E06000011,North,3,2,3,2,2.5
+E06000012,Central,3,2,3,2,2.5
+E06000013,Central,3,1,3,1,2
+E06000014,North,1,1,1,1,1
+E06000015,Central,2,1,2,1,1.5
+E06000016,Central,3,2,3,2,2.5
+E06000018,Central,2,1,2,1,1.5
+E06000017,Central,2,1,2,1,1.5
+E06000019,Central,3,3,3,3,3
+E06000020,Central,1,1,1,1,1
+E06000021,Central,3,1,3,1,2
+E06000022,South and the Channel Islands,2,1,2,1,1.5
+E06000023,South and the Channel Islands,1,2,2,1,1.5
+E06000024,South and the Channel Islands,2,1,2,1,1.5
+E06000025,South and the Channel Islands,1,1,1,1,1
+E06000026,South and the Channel Islands,2,2,2,2,2
+E06000027,South and the Channel Islands,2,2,2,2,2
+E06000058,South and the Channel Islands,2,1,2,1,1.5
+E06000030,South and the Channel Islands,1,1,1,1,1
+E06000031,Central,1,1,1,1,1
+E06000032,South East,3,1,3,1,2
+E06000033,South East,3,2,3,2,2.5
+E06000034,South East,3,2,3,2,2.5
+E06000035,South East,3,1,3,1,2
+E06000036,South and the Channel Islands,2,1,2,1,1.5
+E06000037,South and the Channel Islands,1,1,1,1,1
+E06000038,South and the Channel Islands,1,1,1,1,1
+E06000039,South and the Channel Islands,3,1,3,1,2
+E06000040,South and the Channel Islands,1,1,1,1,1
+E06000041,South and the Channel Islands,2,1,2,1,1.5
+E06000042,South and the Channel Islands,3,1,3,1,2
+E06000043,South East,1,2,2,1,1.5
+E06000044,South East,3,2,3,2,2.5
+E06000045,South East,2,1,2,1,1.5
+E06000046,South East,3,2,3,2,2.5
+E06000047,North,2,1,2,1,1.5
+E06000049,North,2,1,2,1,1.5
+E06000050,North,1,1,1,1,1
+E06000051,Central,1,2,2,1,1.5
+E06000052,South and the Channel Islands,2,1,2,1,1.5
+E06000053,South and the Channel Islands,3,NA,3,3,NA
+E06000054,South and the Channel Islands,2,1,2,1,1.5
+E06000055,South East,2,1,2,1,1.5
+E06000056,South East,2,1,2,1,1.5
+E06000057,North,2,2,2,2,2
+E07000004,South and the Channel Islands,2,1,2,1,1.5
+E07000005,South and the Channel Islands,1,1,1,1,1
+E07000006,South and the Channel Islands,1,1,1,1,1
+E07000007,South and the Channel Islands,2,2,2,2,2
+E07000008,Central,1,2,2,1,1.5
+E07000009,Central,2,1,2,1,1.5
+E07000010,Central,3,1,3,1,2
+E07000011,Central,2,1,2,1,1.5
+E07000012,Central,1,2,2,1,1.5
+E07000026,North,3,1,3,1,2
+E07000027,North,3,3,3,3,3
+E07000028,North,3,1,3,1,2
+E07000029,North,3,2,3,2,2.5
+E07000030,North,2,2,2,2,2
+E07000031,North,2,1,2,1,1.5
+E07000032,Central,3,1,3,1,2
+E07000033,Central,3,1,3,1,2
+E07000034,Central,3,1,3,1,2
+E07000035,Central,1,2,2,1,1.5
+E07000036,Central,2,1,2,1,1.5
+E07000037,Central,2,2,2,2,2
+E07000038,Central,3,1,3,1,2
+E07000039,Central,2,1,2,1,1.5
+E07000040,South and the Channel Islands,2,2,2,2,2
+E07000041,South and the Channel Islands,1,2,2,1,1.5
+E07000042,South and the Channel Islands,2,2,2,2,2
+E07000043,South and the Channel Islands,2,2,2,2,2
+E07000044,South and the Channel Islands,2,2,2,2,2
+E07000045,South and the Channel Islands,2,1,2,1,1.5
+E07000046,South and the Channel Islands,3,1,3,1,2
+E07000047,South and the Channel Islands,2,1,2,1,1.5
+E06000059,South and the Channel Islands,2,1,2,1,1.5
+E07000061,South East,3,2,3,2,2.5
+E07000062,South East,2,3,3,2,2.5
+E07000063,South East,1,1,1,1,1
+E07000064,South East,2,2,2,2,2
+E07000065,South East,1,2,2,1,1.5
+E07000066,South East,2,2,2,2,2
+E07000067,South East,2,2,2,2,2
+E07000069,South East,3,1,3,1,2
+E07000068,South East,1,2,2,1,1.5
+E07000070,South East,1,1,1,1,1
+E07000071,South East,2,1,2,1,1.5
+E07000072,South East,2,2,2,2,2
+E07000073,South East,3,1,3,1,2
+E07000074,South East,2,1,2,1,1.5
+E07000075,South East,3,2,3,2,2.5
+E07000076,South East,3,2,3,2,2.5
+E07000077,South East,2,1,2,1,1.5
+E07000078,South and the Channel Islands,1,1,1,1,1
+E07000079,South and the Channel Islands,1,1,1,1,1
+E07000080,South and the Channel Islands,2,1,2,1,1.5
+E07000081,South and the Channel Islands,1,1,1,1,1
+E07000082,South and the Channel Islands,1,1,1,1,1
+E07000083,South and the Channel Islands,1,1,1,1,1
+E07000084,South East,1,1,1,1,1
+E07000085,South East,2,1,2,1,1.5
+E07000086,South East,2,1,2,1,1.5
+E07000087,South East,2,1,2,1,1.5
+E07000088,South East,3,2,3,2,2.5
+E07000089,South East,2,2,2,2,2
+E07000090,South East,3,1,3,1,2
+E07000091,South East,2,1,2,1,1.5
+E07000092,South East,2,1,2,1,1.5
+E07000093,South East,2,1,2,1,1.5
+E07000094,South East,1,1,1,1,1
+E07000095,South East,2,1,2,1,1.5
+E07000096,South East,1,2,2,1,1.5
+E07000098,South East,2,2,2,2,2
+E07000099,South East,1,1,1,1,1
+E07000102,South East,2,1,2,1,1.5
+E07000103,South East,2,1,2,1,1.5
+E07000105,South East,2,1,2,1,1.5
+E07000106,South East,2,2,2,2,2
+E07000107,South East,2,2,2,2,2
+E07000108,South East,3,2,3,2,2.5
+E07000109,South East,3,1,3,1,2
+E07000110,South East,3,1,3,1,2
+E07000111,South East,1,1,1,1,1
+E07000112,South East,3,1,3,1,2
+E07000113,South East,3,1,3,1,2
+E07000114,South East,3,2,3,2,2.5
+E07000115,South East,1,2,2,1,1.5
+E07000116,South East,2,1,2,1,1.5
+E07000117,North,3,1,3,1,2
+E07000118,North,3,1,3,1,2
+E07000119,North,1,2,2,1,1.5
+E07000120,North,3,2,3,2,2.5
+E07000121,North,3,2,3,2,2.5
+E07000122,North,3,1,3,1,2
+E07000123,North,3,3,3,3,3
+E07000124,North,2,1,2,1,1.5
+E07000125,North,3,1,3,1,2
+E07000126,North,3,2,3,2,2.5
+E07000127,North,3,2,3,2,2.5
+E07000128,North,3,1,3,1,2
+E07000129,Central,3,2,3,2,2.5
+E07000130,Central,2,1,2,1,1.5
+E07000131,Central,1,1,1,1,1
+E07000132,Central,2,1,2,1,1.5
+E07000133,Central,2,1,2,1,1.5
+E07000134,Central,2,1,2,1,1.5
+E07000135,Central,2,1,2,1,1.5
+E07000136,Central,3,1,3,1,2
+E07000137,Central,2,2,2,2,2
+E07000138,Central,1,2,2,1,1.5
+E07000139,Central,2,2,2,2,2
+E07000140,Central,3,2,3,2,2.5
+E07000141,Central,1,1,1,1,1
+E07000142,Central,2,1,2,1,1.5
+E07000143,Central,3,2,3,2,2.5
+E07000144,Central,2,1,2,1,1.5
+E07000145,Central,3,2,3,2,2.5
+E07000146,Central,3,2,3,2,2.5
+E07000147,Central,2,1,2,1,1.5
+E07000148,Central,1,1,1,1,1
+E07000149,Central,1,2,2,1,1.5
+E07000150,Central,3,2,3,2,2.5
+E07000151,Central,1,1,1,1,1
+E07000152,Central,1,1,1,1,1
+E07000153,Central,1,1,1,1,1
+E07000154,Central,1,1,1,1,1
+E07000155,Central,1,1,1,1,1
+E07000156,Central,1,1,1,1,1
+E07000164,North,3,1,3,1,2
+E07000163,North,2,1,2,1,1.5
+E07000165,North,2,1,2,1,1.5
+E07000166,North,1,1,1,1,1
+E07000168,North,3,2,3,2,2.5
+E07000167,North,3,3,3,3,3
+E07000169,North,3,2,3,2,2.5
+E07000170,Central,2,1,2,1,1.5
+E07000171,Central,3,1,3,1,2
+E07000172,Central,2,1,2,1,1.5
+E07000173,Central,2,1,2,1,1.5
+E07000174,Central,2,2,2,2,2
+E07000175,Central,3,1,3,1,2
+E07000176,Central,1,1,1,1,1
+E07000177,South and the Channel Islands,2,2,2,2,2
+E07000178,South and the Channel Islands,1,1,1,1,1
+E07000179,South and the Channel Islands,1,1,1,1,1
+E07000180,South and the Channel Islands,2,1,2,1,1.5
+E07000181,South and the Channel Islands,1,2,2,1,1.5
+E07000187,South and the Channel Islands,2,2,2,2,2
+E07000188,South and the Channel Islands,3,1,3,1,2
+E07000189,South and the Channel Islands,3,1,3,1,2
+E07000246,South and the Channel Islands,2,1,2,1,1.5
+E07000192,Central,3,1,3,1,2
+E07000193,Central,2,2,2,2,2
+E07000194,Central,3,1,3,1,2
+E07000195,Central,3,1,3,1,2
+E07000196,Central,2,1,2,1,1.5
+E07000197,Central,2,1,2,1,1.5
+E07000198,Central,2,2,2,2,2
+E07000199,Central,3,1,3,1,2
+E07000200,Central,2,1,2,1,1.5
+E07000245,Central,3,1,3,1,2
+E07000202,Central,3,2,3,2,2.5
+E07000203,Central,3,1,3,1,2
+E07000244,Central,3,2,3,2,2.5
+E07000207,South East,1,1,1,1,1
+E07000208,South East,2,1,2,1,1.5
+E07000209,South East,1,1,1,1,1
+E07000211,South East,2,1,2,1,1.5
+E07000210,South East,1,1,1,1,1
+E07000212,South East,1,1,1,1,1
+E07000213,South East,2,2,2,2,2
+E07000214,South East,2,1,2,1,1.5
+E07000215,South East,2,1,2,1,1.5
+E07000216,South East,1,1,1,1,1
+E07000217,South East,1,1,1,1,1
+E07000218,Central,3,1,3,1,2
+E07000219,Central,3,2,3,2,2.5
+E07000220,Central,2,1,2,1,1.5
+E07000221,Central,2,1,2,1,1.5
+E07000222,Central,2,2,2,2,2
+E07000223,South East,2,1,2,1,1.5
+E07000224,South East,2,1,2,1,1.5
+E07000225,South East,2,1,2,1,1.5
+E07000226,South East,2,1,2,1,1.5
+E07000227,South East,1,1,1,1,1
+E07000228,South East,1,1,1,1,1
+E07000229,South East,2,1,2,1,1.5
+E07000234,Central,2,1,2,1,1.5
+E07000235,Central,2,1,2,1,1.5
+E07000236,Central,3,1,3,1,2
+E07000237,Central,2,1,2,1,1.5
+E07000238,Central,2,1,2,1,1.5
+E07000239,Central,3,1,3,1,2
+E07000240,South East,1,1,1,1,1
+E07000241,South East,2,1,2,1,1.5
+E07000242,South East,1,2,2,1,1.5
+E07000243,South East,2,1,2,1,1.5
+E08000001,North,3,1,3,1,2
+E08000002,North,2,1,2,1,1.5
+E08000003,North,1,2,2,1,1.5
+E08000004,North,3,2,3,2,2.5
+E08000005,North,3,2,3,2,2.5
+E08000006,North,2,1,2,1,1.5
+E08000007,North,1,1,1,1,1
+E08000008,North,3,2,3,2,2.5
+E08000009,North,1,2,2,1,1.5
+E08000010,North,3,1,3,1,2
+E08000011,North,3,1,3,1,2
+E08000012,North,2,2,2,2,2
+E08000013,North,3,1,3,1,2
+E08000014,North,3,2,3,2,2.5
+E08000015,North,3,2,3,2,2.5
+E08000016,North,3,2,3,2,2.5
+E08000017,North,3,2,3,2,2.5
+E08000018,North,3,3,3,3,3
+E08000019,North,2,2,2,2,2
+E08000021,North,1,2,2,1,1.5
+E08000022,North,1,1,1,1,1
+E08000023,North,3,2,3,2,2.5
+E08000024,North,3,2,3,2,2.5
+E08000025,Central,3,2,3,2,2.5
+E08000026,Central,3,2,3,2,2.5
+E08000027,Central,3,1,3,1,2
+E08000028,Central,3,1,3,1,2
+E08000029,Central,2,1,2,1,1.5
+E08000030,Central,3,2,3,2,2.5
+E08000031,Central,3,2,3,2,2.5
+E08000032,North,3,1,3,1,2
+E08000033,North,3,1,3,1,2
+E08000034,North,3,1,3,1,2
+E08000035,North,2,2,2,2,2
+E08000036,North,3,2,3,2,2.5
+E08000037,North,2,2,2,2,2
+E09000002,London,3,1,3,1,2
+E09000001,London,1,2,2,1,1.5
+E09000003,London,2,2,2,2,2
+E09000004,London,3,1,3,1,2
+E09000005,London,2,2,2,2,2
+E09000006,London,2,1,2,1,1.5
+E09000007,London,1,2,2,1,1.5
+E09000008,London,2,2,2,2,2
+E09000009,London,1,2,2,1,1.5
+E09000010,London,3,2,3,2,2.5
+E09000011,London,2,1,2,1,1.5
+E09000012,London,1,3,3,1,2
+E09000013,London,1,2,2,1,1.5
+E09000014,London,1,2,2,1,1.5
+E09000015,London,3,1,3,1,2
+E09000016,London,3,1,3,1,2
+E09000017,London,3,2,3,2,2.5
+E09000018,London,1,2,2,1,1.5
+E09000019,London,1,2,2,1,1.5
+E09000020,London,1,3,3,1,2
+E09000021,London,1,1,1,1,1
+E09000022,London,1,2,2,1,1.5
+E09000023,London,1,2,2,1,1.5
+E09000024,London,1,2,2,1,1.5
+E09000025,London,2,2,2,2,2
+E09000026,London,3,2,3,2,2.5
+E09000027,London,1,1,1,1,1
+E09000028,London,1,3,3,1,2
+E09000029,London,3,2,3,2,2.5
+E09000030,London,1,2,2,1,1.5
+E09000031,London,1,2,2,1,1.5
+E09000032,London,1,2,2,1,1.5
+E09000033,London,1,2,2,1,1.5
+S12000005,Scotland,1,NA,1,1,NA
+S12000006,Scotland,1,NA,1,1,NA
+S12000008,Scotland,1,NA,1,1,NA
+S12000010,Scotland,1,NA,1,1,NA
+S12000011,Scotland,1,NA,1,1,NA
+S12000013,Scotland,1,NA,1,1,NA
+S12000014,Scotland,1,NA,1,1,NA
+S12000047,Scotland,1,NA,1,1,NA
+S12000017,Scotland,1,NA,1,1,NA
+S12000018,Scotland,1,NA,1,1,NA
+S12000019,Scotland,1,NA,1,1,NA
+S12000020,Scotland,1,NA,1,1,NA
+S12000021,Scotland,1,NA,1,1,NA
+S12000023,Scotland,1,NA,1,1,NA
+S12000048,Scotland,1,NA,1,1,NA
+S12000026,Scotland,1,NA,1,1,NA
+S12000027,Scotland,1,NA,1,1,NA
+S12000028,Scotland,1,NA,1,1,NA
+S12000029,Scotland,1,NA,1,1,NA
+S12000030,Scotland,1,NA,1,1,NA
+S12000033,Scotland,1,NA,1,1,NA
+S12000034,Scotland,1,NA,1,1,NA
+S12000035,Scotland,1,NA,1,1,NA
+S12000036,Scotland,1,NA,1,1,NA
+S12000038,Scotland,1,NA,1,1,NA
+S12000039,Scotland,1,NA,1,1,NA
+S12000040,Scotland,1,NA,1,1,NA
+S12000041,Scotland,1,NA,1,1,NA
+S12000042,Scotland,1,NA,1,1,NA
+S12000050,Scotland,1,NA,1,1,NA
+S12000045,Scotland,1,NA,1,1,NA
+S12000049,Scotland,1,NA,1,1,NA
+W06000001,Wales,1,NA,1,1,NA
+W06000002,Wales,1,NA,1,1,NA
+W06000003,Wales,1,NA,1,1,NA
+W06000004,Wales,1,NA,1,1,NA
+W06000005,Wales,1,NA,1,1,NA
+W06000006,Wales,2,NA,2,2,NA
+W06000008,Wales,3,NA,3,3,NA
+W06000009,Wales,3,NA,3,3,NA
+W06000010,Wales,3,NA,3,3,NA
+W06000011,Wales,2,NA,2,2,NA
+W06000012,Wales,3,NA,3,3,NA
+W06000013,Wales,3,NA,3,3,NA
+W06000014,Wales,1,NA,1,1,NA
+W06000015,Wales,1,NA,1,1,NA
+W06000016,Wales,3,NA,3,3,NA
+W06000018,Wales,2,NA,2,2,NA
+W06000019,Wales,2,NA,2,2,NA
+W06000020,Wales,1,NA,1,1,NA
+W06000021,Wales,1,NA,1,1,NA
+W06000022,Wales,1,NA,1,1,NA
+W06000023,Wales,1,NA,1,1,NA
+W06000024,Wales,3,NA,3,3,NA
+N09000001,Northern Ireland and the Isle of Man,3,NA,3,3,NA
+N09000002,Northern Ireland and the Isle of Man,3,NA,3,3,NA
+N09000003,Northern Ireland and the Isle of Man,2,NA,2,2,NA
+N09000004,Northern Ireland and the Isle of Man,3,NA,3,3,NA
+N09000005,Northern Ireland and the Isle of Man,3,NA,3,3,NA
+N09000006,Northern Ireland and the Isle of Man,3,NA,3,3,NA
+N09000007,Northern Ireland and the Isle of Man,3,NA,3,3,NA
+N09000008,Northern Ireland and the Isle of Man,3,NA,3,3,NA
+N09000009,Northern Ireland and the Isle of Man,3,NA,3,3,NA
+N09000010,Northern Ireland and the Isle of Man,3,NA,3,3,NA
+N09000011,Northern Ireland and the Isle of Man,2,NA,2,2,NA
